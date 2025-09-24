@@ -55,7 +55,14 @@ My core strengths are in **Java, C, and full-stack development**.
 - 🚀 Built a **Full-Stack E-Commerce Web Application** using MERN stack  
 - 🛠️ Developed an **Admin Dashboard** for management  
 - 🔐 Integrated **JWT, Redis caching, Stripe payment gateway**  
-- 📜 [Experience Certificate](https://drive.google.com/file/d/16Z9JM6ryHgxbAGoTiA5rP9l9RYq6Q3fw/view)  
+- 📜 [Experience Certificate](https://drive.google.com/file/d/16Z9JM6ryHgxbAGoTiA5rP9l9RYq6Q3fw/view)
+
+
+**Codec Technologies Pvt. Ltd.** – *MERN Stack Developer Intern* (Aug 2025 – Sep 2025)  
+- ✅ Completed a **1-Month AICTE & ICAC approved internship program**  
+- 💻 Worked on **MERN stack development** (MongoDB, Express.js, React, Node.js)  
+- 📊 Gained hands-on experience under **industry mentorship**  
+- 📜 [Letter of Recommendation](https://drive.google.com/file/d/1FG61UoxQUbF43OzN3dGNV7ZR7iOEMJnk/view?usp=sharing) | [Internship Certificate](https://drive.google.com/file/d/1nZtQuwj9ki67qGiBZD68Tq9U_giZ8RaL/view?usp=sharing)  
 
 ---
 
