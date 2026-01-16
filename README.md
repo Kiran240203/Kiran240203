@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 
 I’m an MCA graduate (2025) who enjoys solving problems and building things with technology.  
-My core strengths are in **Java, C, and full-stack development**.  
+My core strengths are in **Java and full-stack development**.  
 
 - 💻 **Projects**:  
   - 🛒 Built an **E-commerce platform** with cart & payment features  
@@ -28,11 +28,11 @@ My core strengths are in **Java, C, and full-stack development**.
 ---
 
 ## 🛠️ Technical Skills  
-**Languages:** Java, C, C++  
+**Languages:** Java, C, C++, Java Script, Python  
 **Frontend:** React.js, React Native, HTML, CSS, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, Redis  
-**Tools & Services:** GitHub, Postman, AWS Cloud, Stripe, Socket.IO  
+**Tools & Services:** VS Code, Android Studio, GitHub, Postman, AWS Cloud, Stripe, Socket.IO  
 **Others:** JWT, REST APIs  
 
 ---
@@ -70,10 +70,11 @@ My core strengths are in **Java, C, and full-stack development**.
 - [AWS Academy Graduate – Cloud Foundations (May 2024)](https://drive.google.com/file/d/16yEUGl62e-YJQxRZXRTQcWChr57nxCIk/view)  
 - [Kali Linux – Coursera / Board Infinity (Jul 2024)](https://drive.google.com/file/d/1yZb9vccS06knzO4KgEbBPm_BLaYAKV-P/view)  
 - [Introduction to MongoDB, AI & Vector Search – ICT Learnathon (Oct 2024)](https://drive.google.com/file/d/1_kC8rlZiGR1qh4is7XGJWswMnwCwB7xg/view)  
-
+- [JavaScript Fundamentals)]
+  (https://drive.google.com/file/d/1UPJuTXKJ_UFBpZEZyM10-wEhRcTqsEjX/view?usp=sharing)  
 ---
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiran2402-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kiran2402/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Excalibur--ak-black?style=flat&logo=github)](https://github.com/Excalibur-ak)  
+[![GitHub](https://img.shields.io/badge/GitHub-Excalibur--ak-black?style=flat&logo=github)](https://github.com/Kiran240203)  
 [![Email](https://img.shields.io/badge/Email-dommetivenkatakiran%40gmail.com-red?style=flat&logo=gmail)](mailto:dommetivenkatakiran@gmail.com)  
