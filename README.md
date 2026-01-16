@@ -70,7 +70,7 @@ My core strengths are in **Java and full-stack development**.
 - [AWS Academy Graduate – Cloud Foundations (May 2024)](https://drive.google.com/file/d/16yEUGl62e-YJQxRZXRTQcWChr57nxCIk/view)  
 - [Kali Linux – Coursera / Board Infinity (Jul 2024)](https://drive.google.com/file/d/1yZb9vccS06knzO4KgEbBPm_BLaYAKV-P/view)  
 - [Introduction to MongoDB, AI & Vector Search – ICT Learnathon (Oct 2024)](https://drive.google.com/file/d/1_kC8rlZiGR1qh4is7XGJWswMnwCwB7xg/view)  
-- [JavaScript Fundamentals)]
+- [JavaScript Fundamentals]
   (https://drive.google.com/file/d/1UPJuTXKJ_UFBpZEZyM10-wEhRcTqsEjX/view?usp=sharing)  
 ---
 
