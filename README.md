@@ -78,5 +78,5 @@ My core strengths are in **Java and full-stack development**.
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiran2402-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kiran2402/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Excalibur--ak-black?style=flat&logo=github)](https://github.com/Kiran240203)  
+[![GitHub](https://img.shields.io/badge/GitHub-Kiran240203-black?style=flat&logo=github)](https://github.com/Kiran240203)  
 [![Email](https://img.shields.io/badge/Email-dommetivenkatakiran%40gmail.com-red?style=flat&logo=gmail)](mailto:dommetivenkatakiran@gmail.com)  
