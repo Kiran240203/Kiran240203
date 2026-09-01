@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Dommeti Venkata Kiran
 
-<div align="center">
+<<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=00D084&background=02091400&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;REST+APIs+%7C+JWT+%7C+Redis+%7C+Socket.IO;Building+Practical+Full-Stack+Applications" alt="Animated introduction" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redis,js,java,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,redux,nextjs,html,css,git,github,postman" alt="Technology stack" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=%3C+Build+%2F%3E;%3C+Code+%2F%3E;%3C+Deploy+%2F%3E;%3C+Scale+%2F%3E" alt="Developer workflow animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=900&color=00CFFF&center=true&vCenter=true&width=650&lines=%3C+Build+%2F%3E;%3C+Code+%2F%3E;%3C+Deploy+%2F%3E;%3C+Improve+%2F%3E" alt="Developer workflow" />
 
 </div>
 
@@ -18,35 +18,48 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** specializing in **React.js, Node.js, Express.js, and MongoDB**, with hands-on experience from internships and full-stack projects.
+I'm a **Junior Full Stack Developer** specializing in the **MERN stack**, with hands-on internship experience building frontend interfaces, backend APIs, authentication systems, database operations, and full-stack web applications.
 
-- 🔨 Built a full-stack **E-Commerce application** with Redis caching, Stripe payments, JWT authentication, and an admin dashboard
-- 💬 Built **Streamify**, a language-exchange application with real-time messaging and video calling
-- 🔐 Experience with JWT authentication and protected API routes
-- 🗄️ Hands-on with MongoDB, Mongoose, and Redis
-- ⚡ Integrated Stripe, Cloudinary, Stream Chat, and Stream Video
-- 🤝 Internship experience with Git and collaborative development
+- 🔨 Built a full-stack **E-Commerce application** using React.js, Node.js, Express.js, MongoDB, Redis, Stripe, and JWT
+- 💬 Built **Streamify**, a language-exchange application with real-time messaging and video communication
+- 🔐 Implemented JWT-based authentication and protected API routes
+- ⚡ Improved application performance using Redis caching
+- 🗄️ Worked with MongoDB, Mongoose, and REST APIs
+- 🤝 Experience working with Git and collaborative development workflows
 - 🎓 **MCA Graduate (2025)** — CGPA: 7.84/10
-- 🇯🇵 Open to Full Stack / Software Engineering opportunities in Japan
+- 🇯🇵 Open to **Full Stack / Software Engineering opportunities in Japan**
 
 ---
 
-## 🧊 3D Tech Stack
+## 🛠️ Tech Stack
+
+### Frontend
+
+`React.js` `Redux` `Next.js` `HTML5` `CSS3` `Axios`
+
+### Backend
+
+`Node.js` `Express.js` `REST APIs` `JWT Authentication` `Socket.IO`
+
+### Database & Performance
+
+`MongoDB` `Mongoose` `Redis`
+
+### Services
+
+`Stripe` `Cloudinary` `Stream Chat` `Stream Video`
+
+### Languages
+
+`JavaScript (ES6+)` `Java`
+
+### Tools
+
+`Git` `GitHub` `Postman` `VS Code` `npm`
 
 <div align="center">
 
-| Frontend | Backend | Data & Services |
-|:---:|:---:|:---:|
-| ⚛️ React.js | 🟢 Node.js | 🍃 MongoDB |
-| 🔄 Redux | 🚂 Express.js | ⚡ Redis |
-| ▲ Next.js | 🔐 JWT | 💳 Stripe |
-| 🎨 Tailwind CSS | 🔌 REST APIs | ☁️ Cloudinary |
-
-</div>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,redux,nextjs,tailwind,git,github,postman" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,redux,nextjs,html,css,git,github,postman" alt="Tech stack icons" />
 
 </div>
 
@@ -56,73 +69,93 @@ I'm a **Full Stack Developer** specializing in **React.js, Node.js, Express.js, 
 
 ### 🛒 E-Commerce Web Application
 
-Full-stack e-commerce application built with the MERN stack.
+A full-stack e-commerce platform built with the MERN stack, including product management, shopping functionality, authentication, payments, and an admin dashboard.
 
-**Features**
+**Key Features**
 
 - 🛍️ Product and category management
 - 🛒 Shopping cart and wishlist
-- 🎟️ Coupons and order management
+- 🎟️ Discount coupons and order management
 - 💳 Stripe payment integration
-- 🔐 JWT access and refresh token authentication
-- ⚡ Redis caching
-- 📊 Admin dashboard and sales analytics
+- 🔐 JWT-based authentication
+- ⚡ Redis caching for frequently accessed data
+- 📊 Admin dashboard and sales management
 - ☁️ Cloudinary image management
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Redis` `Stripe` `JWT` `Cloudinary`
+**Tech Stack**
 
-🔗 [View Repository](https://github.com/Kiran240203/E-Commerce-MERN)
+`React.js` `Node.js` `Express.js` `MongoDB` `Redis` `Stripe` `JWT` `Cloudinary`
+
+<div align="center">
+
+<a href="https://github.com/Kiran240203/E-Commerce-MERN">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce GitHub repository">
+</a>
+
+</div>
 
 ---
 
 ### 💬 Streamify — Real-Time Chat & Video
 
-Full-stack language-exchange application focused on real-time communication.
+A full-stack language-exchange application designed for discovering users, connecting with friends, messaging, and video communication.
 
-**Features**
+**Key Features**
 
 - 🔐 JWT authentication
 - 👤 User onboarding and profile management
 - 🌍 Language preferences
 - 🤝 User discovery and friend requests
 - 🔔 Notifications
-- 💬 Real-time messaging with **Stream Chat**
-- 📹 Video calling with **Stream Video**
+- 💬 Real-time messaging with Stream Chat
+- 📹 Video communication with Stream Video
 - 🗄️ MongoDB persistence
 - ⚡ TanStack Query
 - 🌐 Zustand
 
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `Stream Chat` `Stream Video` `JWT`
+**Tech Stack**
 
-🔗 [View Repository](https://github.com/Kiran240203/STREAMIFY)
+`React.js` `Node.js` `Express.js` `MongoDB` `Stream Chat` `Stream Video` `JWT`
+
+<div align="center">
+
+<a href="https://github.com/Kiran240203/STREAMIFY">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Streamify GitHub repository">
+</a>
+
+</div>
 
 ---
 
 ## 💼 Internship Experience
 
 ### Web Development Intern — Innoknowvex
+
 **Mar 2025 – May 2025**
 
 - Developed admin dashboard modules for a MERN-based platform
 - Implemented JWT-based authentication for protected backend APIs
 - Integrated REST APIs between React.js and Node.js/Express.js
-- Used Git branching workflows in a collaborative development team
+- Worked with Git branching and collaborative development workflows
 
 ### MERN Stack Developer Intern — Codec Technologies Pvt. Ltd.
+
 **Aug 2025 – Sep 2025**
 
 - Developed reusable React.js components integrated with backend APIs
-- Implemented CRUD functionality across MongoDB collections using Mongoose
+- Implemented CRUD functionality using MongoDB and Mongoose
 - Debugged Express.js API routes and frontend-backend integration issues
 - Collaborated in an Agile development environment
 
 ---
 
-## 🐍 Contribution Animation
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="./assets/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="./assets/github-contribution-grid-snake.svg"
+     alt="GitHub contribution animation"
+     width="100%" />
 
 </div>
 
@@ -132,11 +165,11 @@ Full-stack language-exchange application focused on real-time communication.
 
 **Master of Computer Applications (MCA)**  
 Sri Manakula Vinayagar Engineering College  
-**CGPA:** 7.84/10 · **2023–2025**
+**2023 – 2025 · CGPA: 7.84/10**
 
 **Bachelor of Computer Science**  
 Dr. S.R.K. Govt Arts College  
-**2020–2023**
+**2020 – 2023**
 
 ---
 
@@ -152,26 +185,26 @@ Dr. S.R.K. Govt Arts College
 
 ## 🇯🇵 Career Interests
 
-**Full Stack Development · React.js · Node.js · Backend APIs · Web Applications · Japan Opportunities**
+**Full Stack Development · MERN · React.js · Node.js · Backend APIs · Software Engineering · Japan**
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kiran240203-181717?style=for-the-badge&logo=github)](https://github.com/Kiran240203)
+<a href="https://github.com/Kiran240203">
+<img src="https://img.shields.io/badge/GitHub-Kiran240203-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiran2402-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Kiran2402)
+<a href="https://linkedin.com/in/Kiran2402">
+<img src="https://img.shields.io/badge/LinkedIn-Kiran2402-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-[![Email](https://img.shields.io/badge/Email-dommetivenkatakiran%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:dommetivenkatakiran@gmail.com)
+<a href="mailto:dommetivenkatakiran@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling" alt="Animated footer" />
-
-### 💡 Build · Learn · Improve · Repeat 🚀
+</div> Build · Learn · Improve · Repeat 🚀
 
 </div>
