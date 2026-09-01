@@ -112,24 +112,6 @@ Full-stack language-exchange application focused on real-time communication.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kiran240203&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran240203&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kiran240203&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
 ## 🐍 Contribution Animation
 
 <div align="center">
