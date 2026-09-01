@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D084&background=020914&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;REST+APIs+%7C+JWT+%7C+Redis+%7C+Socket.IO;Building+Practical+Full-Stack+Web+Applications;Open+to+Japan+Opportunities+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D084&background=020914&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;REST+APIs+%7C+JWT+%7C+Redis+%7C+Socket.IO;Building+Practical+Full-Stack+Web+Applications;" alt="Typing animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=38&fontAlignY=40&fontColor=FFFFFF&animation=twinkling&color=00D084&gradientColor=0066FF" width="100%" alt="Full Stack Developer banner" />
 
