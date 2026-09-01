@@ -6,9 +6,6 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,redux,nextjs,html,css,git,github,postman" alt="Technology stack" />
-
-<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=900&color=00CFFF&center=true&vCenter=true&width=650&lines=%3C+Build+%2F%3E;%3C+Code+%2F%3E;%3C+Deploy+%2F%3E;%3C+Improve+%2F%3E" alt="Developer workflow" />
 
@@ -31,39 +28,7 @@ I'm a **Junior Full Stack Developer** specializing in the **MERN stack**, with h
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-`React.js` `Redux` `Next.js` `HTML5` `CSS3` `Axios`
-
-### Backend
-
-`Node.js` `Express.js` `REST APIs` `JWT Authentication` `Socket.IO`
-
-### Database & Performance
-
-`MongoDB` `Mongoose` `Redis`
-
-### Services
-
-`Stripe` `Cloudinary` `Stream Chat` `Stream Video`
-
-### Languages
-
-`JavaScript (ES6+)` `Java`
-
-### Tools
-
-`Git` `GitHub` `Postman` `VS Code` `npm`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,redux,nextjs,html,css,git,github,postman" alt="Tech stack icons" />
-
-</div>
-
----
+## 🧊 3D Tech Stack <div align="center"> | Frontend | Backend | Data & Services | |:---:|:---:|:---:| | ⚛️ React.js | 🟢 Node.js | 🍃 MongoDB | | 🔄 Redux | 🚂 Express.js | ⚡ Redis | | ▲ Next.js | 🔐 JWT | 💳 Stripe | | 🎨 Tailwind CSS | 🔌 REST APIs | ☁️ Cloudinary | </div> <div align="center"> <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,redis,redux,nextjs,tailwind,git,github,postman" alt="Technology icons" /> </div> ---
 
 ## 🚀 Featured Projects
 
@@ -189,22 +154,16 @@ Dr. S.R.K. Govt Arts College
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with me
+<div align="center"> 
+[![GitHub](https://img.shields.io/badge/GitHub-Kiran240203-181717?style=for-the-badge&logo=github)](https://github.com/Kiran240203) 
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiran2402-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Kiran2402) 
 
-<a href="https://github.com/Kiran240203">
-<img src="https://img.shields.io/badge/GitHub-Kiran240203-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+[![Email](https://img.shields.io/badge/Email-dommetivenkatakiran%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:dommetivenkatakiran@gmail.com) 
 
-<a href="https://linkedin.com/in/Kiran2402">
-<img src="https://img.shields.io/badge/LinkedIn-Kiran2402-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</div> <div align="center"> 
 
-<a href="mailto:dommetivenkatakiran@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling" alt="Animated footer" />
 
-</div> Build · Learn · Improve · Repeat 🚀
-
-</div>
+### 💡 Build · Learn · Improve · Repeat 🚀 </div>
