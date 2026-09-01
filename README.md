@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=00D084&background=02091400&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;REST+APIs+%7C+JWT+%7C+Redis+%7C+Socket.IO;Building+Practical+Full-Stack+Applications" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=00D084&background=02091400&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;Building+Practical+Full-Stack+Applications" alt="Animated introduction" />
 
 <br>
 
