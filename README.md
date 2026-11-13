@@ -126,15 +126,6 @@ I'm a **Full Stack Web Developer** with hands-on MERN stack experience from **tw
 - JavaScript Fundamentals
 - Develop Serverless Apps on Cloud Run – Skill Badge
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiran240203&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran240203&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiran240203&bg_color=0d1117&color=00e5ff&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/Kiran240203)
 
 ---
 
